@@ -39,7 +39,7 @@ img {
   width: 100%;
 }
 
-.bt {
+.btn {
   border: 2px solid #333;
   border-radius: 6px;
   font-size: 1.2em;
@@ -48,6 +48,6 @@ img {
   display: inline-block;
 }
 
-.bt:hover {
+.btn:hover {
   background-color: #666;
 }
